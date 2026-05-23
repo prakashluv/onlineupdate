@@ -1,6 +1,5 @@
 {
-  "version": "2.3.0",
-  "date": "2026-05-20",
-  "notes": "v2.3.0 — Added GST Ledger, Supplier Database, Cheque Register, Scanner integration, per-module deployment control, code protection, updated Help & About pages.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.3.0.zip"
+  "version": "2.3.1",
+    "notes": "v2.3.1 — Fixed WhatsApp bot 60-message loop, fixed quotation form reset, fixed CRM banner click, fixed Report Error button, database migrations, secured .env.",
+    "patch_url": "https://github.com/prakashluv/onlineupdate/raw/main/patch_v2.3.1.zip"
 }
