@@ -1,5 +1,6 @@
 {
   "version": "2.3.1",
-    "notes": "v2.3.1 — Fixed WhatsApp bot 60-message loop, fixed quotation form reset, fixed CRM banner click, fixed Report Error button, database migrations, secured .env.",
-    "patch_url": "https://github.com/prakashluv/onlineupdate/raw/main/patch_v2.3.1.zip"
+  "date": "2026-05-23",
+  "notes": "v2.3.1 — Fixed WhatsApp bot 60-message loop, fixed quotation form reset, fixed CRM banner click error, fixed Report Error button, database migrations, secured .env loading.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.3.1.zip"
 }
