@@ -1,6 +1,6 @@
 {
-  "version": "2.4.0",
+  "version": "2.4.1",
   "date": "2026-05-31",
-  "notes": "v2.4.0 — Fixed WhatsApp bot restart loop (no more constant window reloading), fixed session persistence (no daily re-login), added browser engine status checker, added update server URL field to System Update page.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.0.zip"
+  "notes": "v2.4.1 — Fixed WhatsApp window not opening after patch (restored standalone app-mode window using --app=about:blank), fixed 'Bot Crash' false alarms from Chrome teardown errors, fixed Commission Tracking staff+remisier dropdown and plot loading.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.1.zip"
 }
