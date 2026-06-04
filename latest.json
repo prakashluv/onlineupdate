@@ -1,6 +1,6 @@
 {
-  "version": "2.4.4",
+  "version": "2.4.5",
   "date": "2026-06-04",
-  "notes": "v2.4.4 — Fixed WhatsApp bot stuck on 'starting' on some client machines (race condition: Chrome --app= flag loaded WhatsApp before Puppeteer's version-pinning intercept was ready). Added 45s page-reload retry if 'ready' doesn't fire after authentication.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.4.zip"
+  "notes": "v2.4.5 — Module Setup and Developer Tools nav items now hidden for all roles except super_admin. Developer Hub now always requires 2FA auth code (previously opened without code when 2FA was not configured).",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.5.zip"
 }
