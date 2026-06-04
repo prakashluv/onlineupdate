@@ -1,6 +1,6 @@
 {
-  "version": "2.4.6",
+  "version": "2.4.7",
   "date": "2026-06-04",
-  "notes": "v2.4.6 — Fixed Developer Hub opening without auth code even after v2.4.5. Root cause: session stamps from before 2FA was configured were bypassing the gate via the /dev-gate/status fast-path. Status endpoint now returns verified=false when 2FA is not configured.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.6.zip"
+  "notes": "v2.4.7 — Added WhatsApp page-state diagnostics after authentication (logs URL, state, page title every 10s until ready fires). Helps identify what blocks the ready event on restricted client machines.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.7.zip"
 }
