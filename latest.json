@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "date": "2026-06-04",
-  "notes": "v2.5.1 — Fix server crash (requireLogin undefined), fix online update writing to wrong folder (AppData instead of Program Files). WhatsApp session auto-reset after 90s stuck.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.1.zip"
+  "notes": "v2.5.2 — Fix server crash, fix online update to correct install folder, auto-trim server_log.txt daily (keeps last 500 lines).",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.2.zip"
 }
