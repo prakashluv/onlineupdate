@@ -1,6 +1,6 @@
 {
-  "version": "2.4.7",
+  "version": "2.4.8",
   "date": "2026-06-04",
-  "notes": "v2.4.7 — Added WhatsApp page-state diagnostics after authentication (logs URL, state, page title every 10s until ready fires). Helps identify what blocks the ready event on restricted client machines.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.7.zip"
+  "notes": "v2.4.8 — Fixed WhatsApp bot stuck on 'starting' after session restore. Switched to webVersionCache:none (stops WA version pinning that broke injection on client machines). Added force-ready: if WhatsApp page reaches NORMAL state but ready event hasn't fired, bot automatically connects. Diagnostics now use IPC (guaranteed to appear in logs).",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.8.zip"
 }
