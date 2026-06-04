@@ -1,6 +1,6 @@
 {
-  "version": "2.4.2",
-  "date": "2026-06-02",
-  "notes": "v2.4.2 — Added security middleware dependencies (helmet, express-rate-limit) to server startup; fixes 'Cannot find module helmet' crash on launch for installs built before these were bundled.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.2.zip"
+  "version": "2.4.3",
+  "date": "2026-06-04",
+  "notes": "v2.4.3 — Fixed dashboard JavaScript errors (duplicate variable declarations) that caused the UI to crash and display 'bot not connected' even when WhatsApp was authenticated. Fixed invalid Gemini AI fallback model name.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.3.zip"
 }
