@@ -1,6 +1,6 @@
 {
-  "version": "2.5.0",
+  "version": "2.5.1",
   "date": "2026-06-04",
-  "notes": "v2.5.0 — Fix WhatsApp stuck-in-authenticated loop: bot now auto-clears expired session after 90s and shows fresh QR. Added 'Reset WA Session' button to dashboard.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.0.zip"
+  "notes": "v2.5.1 — Fix server crash (requireLogin undefined), fix online update writing to wrong folder (AppData instead of Program Files). WhatsApp session auto-reset after 90s stuck.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.1.zip"
 }
