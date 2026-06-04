@@ -1,6 +1,6 @@
 {
-  "version": "2.4.3",
+  "version": "2.4.4",
   "date": "2026-06-04",
-  "notes": "v2.4.3 — Fixed dashboard JavaScript errors (duplicate variable declarations) that caused the UI to crash and display 'bot not connected' even when WhatsApp was authenticated. Fixed invalid Gemini AI fallback model name.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.3.zip"
+  "notes": "v2.4.4 — Fixed WhatsApp bot stuck on 'starting' on some client machines (race condition: Chrome --app= flag loaded WhatsApp before Puppeteer's version-pinning intercept was ready). Added 45s page-reload retry if 'ready' doesn't fire after authentication.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.4.4.zip"
 }
