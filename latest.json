@@ -1,6 +1,6 @@
 {
-  "version": "2.5.3",
-  "date": "2026-06-04",
-  "notes": "v2.5.3 — Update Server Location box enlarged, shows existing URL, visible to super_admin only.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.3.zip"
+  "version": "2.5.4",
+  "date": "2026-06-05",
+  "notes": "v2.5.4 — Per-user Electron menu filtering: menu items hidden based on logged-in user's module permissions; Developer Tools restricted to super_admin only; Grant Access sub-menus expanded by default.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.4.zip"
 }
