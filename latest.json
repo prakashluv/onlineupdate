@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
+  "version": "2.7.0",
   "date": "2026-06-08",
-  "notes": "v2.6.0 — Fixed WhatsApp check-in/check-out: DB write errors now caught properly so attendance is recorded correctly and check-out no longer fails after check-in.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.6.0.zip"
+  "notes": "v2.7.0 — Smart CRM: auto follow-up controls in Follow-ups tab (enable/disable, hours window, idle timer, max nudges), offline reply toggle, DB-backed follow-up history fix (phone format), missing /api/followups endpoint added. Quick Launch upgraded to 8 dynamic usage-sorted shortcuts. VCF auto-send broadened trigger. Follow-up sweeps run on bot reconnect. Quote button in CRM shows disabled View + always-on New Quote.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.7.0.zip"
 }
