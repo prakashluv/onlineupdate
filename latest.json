@@ -1,6 +1,6 @@
 {
-  "version": "2.5.6",
-  "date": "2026-06-07",
-  "notes": "v2.5.6 — Fix attendance GET query (date column); fix IPC attendance INSERT missing date; fix attendance dashboard array guard; Developer Hub password fallback when authenticator unavailable; diagnostic log for unrecognized staff WhatsApp numbers.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.6.zip"
+  "version": "2.5.7",
+  "date": "2026-06-08",
+  "notes": "v2.5.7 — WhatsApp check-in now replies with clear error if staff phone not registered; manual attendance entry now uses staff dropdown instead of free-text fields.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.7.zip"
 }
