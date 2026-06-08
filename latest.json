@@ -1,6 +1,6 @@
 {
-  "version": "2.5.7",
+  "version": "2.6.0",
   "date": "2026-06-08",
-  "notes": "v2.5.7 — WhatsApp check-in now replies with clear error if staff phone not registered; manual attendance entry now uses staff dropdown instead of free-text fields.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.5.7.zip"
+  "notes": "v2.6.0 — Fixed WhatsApp check-in/check-out: DB write errors now caught properly so attendance is recorded correctly and check-out no longer fails after check-in.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.6.0.zip"
 }
