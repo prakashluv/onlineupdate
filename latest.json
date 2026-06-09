@@ -1,6 +1,6 @@
 {
-  "version": "2.7.0",
-  "date": "2026-06-08",
-  "notes": "v2.7.0 — Smart CRM: auto follow-up controls in Follow-ups tab (enable/disable, hours window, idle timer, max nudges), offline reply toggle, DB-backed follow-up history fix (phone format), missing /api/followups endpoint added. Quick Launch upgraded to 8 dynamic usage-sorted shortcuts. VCF auto-send broadened trigger. Follow-up sweeps run on bot reconnect. Quote button in CRM shows disabled View + always-on New Quote.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.7.0.zip"
+  "version": "2.7.1",
+  "date": "2026-06-09",
+  "notes": "v2.7.1 — VCF Contact Card Manager: checkboxes replaced with pill toggle switches; logo embed limit raised to 200 KB (fixes DRD_Property_Genius_Logo.png being silently skipped).",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.7.1.zip"
 }
