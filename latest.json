@@ -1,6 +1,6 @@
 {
-  "version": "2.7.2",
-  "date": "2026-06-10",
-  "notes": "v2.7.2 — 3D Visualizer Unlock Auto-Reply: bot auto-detects website unlock requests, replies with the 4-digit code, registers visitor in CRM as Website Enquiry. New control panel in AI Follow-up Campaign Studio.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.7.2.zip"
+  "version": "2.7.3",
+  "date": "2026-06-11",
+  "notes": "v2.7.3 — Bot stability fixes: increased Puppeteer protocolTimeout to 120s, orphaned Chrome cleanup on server startup, respawn delay increased to 7s to prevent 'browser already running' crashes.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.7.3.zip"
 }
