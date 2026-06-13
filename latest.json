@@ -1,6 +1,6 @@
 {
-  "version": "2.7.7",
-  "date": "2026-06-11",
-  "notes": "v2.7.7 — PII masking hardened: Aadhaar, PAN, price patterns added; layout names, plot numbers and costs no longer sent to AI; dead plot-data code removed.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.7.7.zip"
+  "version": "2.8.0",
+  "date": "2026-06-13",
+  "notes": "v2.8.0 — Reports download with conversation logs (phone-masked); admin handoff detection (bot backs off when admin is replying); AI identity footer on all bot replies; mark-unread on ignored messages; Full Bot On/Off switch on home dashboard; CRM upload Notes column + download template; VCF DRD_logo fallback.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.8.0.zip"
 }
