@@ -1,6 +1,6 @@
 {
-  "version": "2.8.1",
-  "date": "2026-06-14",
-  "notes": "v2.8.1 — Reports download with conversation logs (phone-masked); admin handoff detection (bot backs off when admin is replying); AI identity footer on all bot replies; mark-unread on ignored messages; Full Bot On/Off switch on home dashboard; CRM upload Notes column + download template; VCF DRD_logo fallback.",
-  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.8.1.zip"
+  "version": "2.8.2",
+  "date": "2026-06-15",
+  "notes": "v2.8.2 — Instagram Studio module in Marketing menu (gallery, captions, post generator); Attendance weekly/monthly view with per-staff detail popup; Expense manager layout dropdown fix.",
+  "patch_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.8.2.zip"
 }
