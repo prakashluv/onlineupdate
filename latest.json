@@ -1,6 +1,6 @@
 {
-  "version": "2.9.0",
+  "version": "2.9.1",
   "date": "2026-06-19",
-  "notes": "v2.9.0 — Affiliate QR fix: QR now uses wa.me with hidden ZW tracking (removed broken server redirect); bot resolves remisier codes via SQLite affiliates table. !leads & !visitors commands generate fresh SQLite reports. Leads & Visitors added to Download Reports modal. Cross-navigation buttons between Affiliate QR and QR Scan Tracker views.",
-  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.9.0.zip"
+  "notes": "v2.9.1 — Remisier QR tab: dedicated tab in Affiliate QR Code view for remisiers with commission rate display. Plot No. tracking in QR codes (embedded as _pPLOT suffix, shown in Layout Scan Log). Auto-commission on bot booking: if customer referred by active remisier, pending commission auto-created. Commission Pending Review panel: admin can Verify (Approved) or Reject auto-commissions. Login banner for pending commissions shown to admin/bot_md roles.",
+  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.9.1.zip"
 }
