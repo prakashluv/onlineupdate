@@ -1,6 +1,6 @@
 {
-  "version": "2.8.9",
-  "date": "2026-06-17",
-  "notes": "v2.8.9 — Update check SSL fix: relaxed TLS for Windows machines with outdated root CA stores; human-readable error hints (DNS/timeout/SSL) instead of generic failure message.",
-  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.8.9.zip"
+  "version": "2.9.0",
+  "date": "2026-06-19",
+  "notes": "v2.9.0 — Affiliate QR fix: QR now uses wa.me with hidden ZW tracking (removed broken server redirect); bot resolves remisier codes via SQLite affiliates table. !leads & !visitors commands generate fresh SQLite reports. Leads & Visitors added to Download Reports modal. Cross-navigation buttons between Affiliate QR and QR Scan Tracker views.",
+  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.9.0.zip"
 }
