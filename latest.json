@@ -1,6 +1,6 @@
 {
-  "version": "2.9.1",
-  "date": "2026-06-19",
-  "notes": "v2.9.1 — Remisier QR tab: dedicated tab in Affiliate QR Code view for remisiers with commission rate display. Plot No. tracking in QR codes (embedded as _pPLOT suffix, shown in Layout Scan Log). Auto-commission on bot booking: if customer referred by active remisier, pending commission auto-created. Commission Pending Review panel: admin can Verify (Approved) or Reject auto-commissions. Login banner for pending commissions shown to admin/bot_md roles.",
-  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.9.1.zip"
+  "version": "2.11.0",
+  "date": "2026-06-30",
+  "notes": "v2.11.0 — Multiple QR codes per staff, QR gallery on Affiliate page, Visitor WA pre-text editor with hidden #VISIT tag, Quotation & Estimate show only Available plots, Recent Unlock Requests mobile fix, Grant Access shows all sub-pages.",
+  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.11.0.zip"
 }
