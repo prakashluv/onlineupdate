@@ -1,6 +1,6 @@
 {
-  "version": "2.11.0",
-  "date": "2026-06-30",
-  "notes": "v2.11.0 — Multiple QR codes per staff, QR gallery on Affiliate page, Visitor WA pre-text editor with hidden #VISIT tag, Quotation & Estimate show only Available plots, Recent Unlock Requests mobile fix, Grant Access shows all sub-pages.",
-  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.11.0.zip"
+  "version": "2.11.1",
+  "date": "2026-07-07",
+  "notes": "v2.11.1 — Bot stays silent for existing CRM customers (admin/staff handle the rest instead of auto-reply), Affiliate QR Plot No dropdown hides sold plots, staff chat claims now stay valid for 24 hours.",
+  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.11.1.zip"
 }
