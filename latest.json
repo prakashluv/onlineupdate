@@ -1,6 +1,6 @@
 {
-  "version": "2.11.1",
-  "date": "2026-07-07",
-  "notes": "v2.11.1 — Bot stays silent for existing CRM customers (admin/staff handle the rest instead of auto-reply), Affiliate QR Plot No dropdown hides sold plots, staff chat claims now stay valid for 24 hours.",
-  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.11.1.zip"
+  "version": "2.11.2",
+  "date": "2026-07-26",
+  "notes": "v2.11.2 — Quotation Engine: Stamp Duty (7% GL) and Registration Fee (3% GL) now auto-calculate from Guideline Value but stay editable, Doc Writer Fees defaults to ₹7,500, Total Others now correctly includes all legal charges. Visualizer Download Images button can now reach the bot's /send endpoint (CORS added).",
+  "download_url": "https://raw.githubusercontent.com/prakashluv/onlineupdate/main/patches/patch_v2.11.2.zip"
 }
